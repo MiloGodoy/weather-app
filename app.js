@@ -23,7 +23,7 @@ window.addEventListener('load', () => {
             //ubicacion por ciudad
             
 
-            const url = `https://api.openweathermap.org/data/2.5/weather?q=Asuncion&lang=es&units=metric&appid=bd2466c3f8a69a4d18e3459cdaea4175`
+            const url = `https://api.openweathermap.org/data/2.5/weather?q=Asuncion&lang=es&units=metric&appid=${API_KEY}`
             
             //console.log(url);
 
