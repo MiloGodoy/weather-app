@@ -18,7 +18,7 @@ window.addEventListener('load', () => {
             lat = posicion.coords.latitude;
 
             //ubicacion actual
-            //const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=bd2466c3f8a69a4d18e3459cdaea4175`;
+            //const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${API_KEY}`;
 
             //ubicacion por ciudad
             
